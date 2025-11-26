@@ -6,9 +6,9 @@ Disease: Hearing impairment
 ICD: AB51
 --- 
 
- # [Film Sound of Metal](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s)
+ # Film Sound of Metal
 
- When I first watched Sound of Metal, I thought it was simply a story about a drummer who suddenly loses his hearing. But as the film went on, the silence surrounding Ruben felt less like a medical condition and more like a massive wave crashing over him—something he couldn’t escape or outrun. The collapse of sound slowly seeped into him, swallowing him piece by piece.
+ When I first watched [Sound of Metal](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s), I thought it was simply a story about a drummer who suddenly loses his hearing. But as the film went on, the silence surrounding Ruben felt less like a medical condition and more like a massive wave crashing over him—something he couldn’t escape or outrun. The collapse of sound slowly seeped into him, swallowing him piece by piece.
 
 In this film, sound isn’t just something you hear; it’s an emotional landscape. The rough, explosive metal music at the beginning shows the rhythm that Ruben’s life once followed. But when his hearing fades and is replaced by distorted electronic noise, hollow echoes, and unsettling stillness, it feels as if he’s lying helplessly under a sudden downpour, unable to move, just letting the storm wash over him. Instead of loud panic, a quiet but persistent anxiety begins to rise inside him.
 
@@ -16,9 +16,9 @@ Even when Ruben receives the cochlear implant, the sound that returns is not the
 
 Sound of Metal doesn’t portray hearing loss as a simple absence. It shows how anxiety and grief seep in through silence, how a person can be slowly engulfed by a world that no longer sounds the way it used to. Without raising its voice, the film conveys Ruben’s disorientation and acceptance with heavy clarity. It suggests that losing one’s hearing is not just the disappearance of sound, but the experience of sinking—slowly and quietly—into a new and unfamiliar silence..
 
- # [사운드 오브 메탈](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s)
+ # 사운드 오브 메탈
 
- 영화 사운드 오브 메탈을 보면서 처음에는 단순히 한 드러머가 청력을 잃는 사건을 그린 이야기라고 생각했다. 하지만 시간이 지나자 루벤이 맞닥뜨린 ‘침묵’은 단순한 상실이 아니라, 갑자기 밀려오는 거대한 파도처럼 느껴졌다. 피할 수도, 도망칠 수도 없는 감각의 붕괴가 그를 천천히 잠식해 들어가는 것 같았다.
+ 영화 [사운드 오브 메탈](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s) 을 보면서 처음에는 단순히 한 드러머가 청력을 잃는 사건을 그린 이야기라고 생각했다. 하지만 시간이 지나자 루벤이 맞닥뜨린 ‘침묵’은 단순한 상실이 아니라, 갑자기 밀려오는 거대한 파도처럼 느껴졌다. 피할 수도, 도망칠 수도 없는 감각의 붕괴가 그를 천천히 잠식해 들어가는 것 같았다.
 
 영화 속 소리는 단지 들리고 안 들리는 문제가 아니라, 감정의 변화와 불안을 그대로 드러내는 하나의 세계다. 초반의 거칠고 폭발적인 메탈 사운드는 루벤의 삶이 어떤 리듬으로 움직여왔는지 보여주지만, 청력을 잃은 순간부터 들리는 전자음, 잔향, 그리고 기묘하게 납작한 무음은 무기력하게 침대 위에서 폭우를 맞는 사람처럼 그를 고립시키고 흔든다. 소리는 줄어드는 대신, 그의 마음속에는 설명할 수 없는 불안이 조용히 차오른다.
 
