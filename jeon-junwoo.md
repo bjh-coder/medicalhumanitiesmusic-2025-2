@@ -3,7 +3,7 @@ Title: Film Sound of Meta
 Year: 2019
 Genre: Music-Drama
 Disease: Hearing impairment
-ICD: H90–H91
+ICD: AB51
 --- 
 
  # [Film Sound of Metal](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s)
