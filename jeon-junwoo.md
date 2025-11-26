@@ -1,4 +1,4 @@
- # {Film Sound of Metal](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s)
+ # [Film Sound of Metal](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s)
 
  When I first watched Sound of Metal, I thought it was simply a story about a drummer who suddenly loses his hearing. But as the film went on, the silence surrounding Ruben felt less like a medical condition and more like a massive wave crashing over him—something he couldn’t escape or outrun. The collapse of sound slowly seeped into him, swallowing him piece by piece.
 
