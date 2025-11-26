@@ -16,6 +16,9 @@ Even when Ruben receives the cochlear implant, the sound that returns is not the
 
 Sound of Metal doesn’t portray hearing loss as a simple absence. It shows how anxiety and grief seep in through silence, how a person can be slowly engulfed by a world that no longer sounds the way it used to. Without raising its voice, the film conveys Ruben’s disorientation and acceptance with heavy clarity. It suggests that losing one’s hearing is not just the disappearance of sound, but the experience of sinking—slowly and quietly—into a new and unfamiliar silence..
 
+<img src="./jeom-junwoo.png" alt="This painting is an oil work that captures the moment a man adjusts his hearing aid against a backdrop blending deep brown and earthy ochre tones. The man, with a shaved head and thick beard, gives off a strong and resilient impression, filling the canvas in a striking side profile. Light touches his forehead, cheekbone, and fingers, bringing out the textured brushstrokes, while the warm color palette emphasizes the emotional depth of the scene.
+His expression is a mix of concentration and calm, artistically portraying a personal and introspective moment related to hearing loss and the use of auditory assistance. Overall, the piece powerfully and delicately conveys the emotional weight of “Sound of Metal” the confusion, adaptation, and acceptance experienced within a world of silence." style="width:25%;" />
+
  # 사운드 오브 메탈
 
  영화 [사운드 오브 메탈](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s) 을 보면서 처음에는 단순히 한 드러머가 청력을 잃는 사건을 그린 이야기라고 생각했다. 하지만 시간이 지나자 루벤이 맞닥뜨린 ‘침묵’은 단순한 상실이 아니라, 갑자기 밀려오는 거대한 파도처럼 느껴졌다. 피할 수도, 도망칠 수도 없는 감각의 붕괴가 그를 천천히 잠식해 들어가는 것 같았다.
