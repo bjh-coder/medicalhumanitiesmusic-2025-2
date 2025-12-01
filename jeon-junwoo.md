@@ -8,26 +8,34 @@ ICD: AB51
 
  # Film Sound of Metal
 
- When I first watched [Sound of Metal](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s), I thought it was simply a story about a drummer who suddenly loses his hearing. But as the film went on, the silence surrounding Ruben felt less like a medical condition and more like a massive wave crashing over him—something he couldn’t escape or outrun. The collapse of sound slowly seeped into him, swallowing him piece by piece.
+When I first watched [Sound of Metal](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s), I thought it was simply a story about a drummer who suddenly loses his hearing. But as the film went on, the silence surrounding Ruben felt less like a medical condition and more like a massive wave crashing over him—something he could neither escape nor outrun. The collapse of sound slowly seeped into him, swallowing not only the noise of the world but also the identity he once held.
 
-In this film, sound isn’t just something you hear; it’s an emotional landscape. The rough, explosive metal music at the beginning shows the rhythm that Ruben’s life once followed. But when his hearing fades and is replaced by distorted electronic noise, hollow echoes, and unsettling stillness, it feels as if he’s lying helplessly under a sudden downpour, unable to move, just letting the storm wash over him. Instead of loud panic, a quiet but persistent anxiety begins to rise inside him.
+In this film, sound is not merely something one hears; it becomes an emotional landscape. The explosive metal music at the beginning reveals how his body had been trained to follow rhythm, speed, and precision. His musicianship was not only a creative practice, but a physical discipline shaped through repetition and control. When hearing disappears, it is not only perception that collapses, but the entire system through which his body once made sense of the world.
 
-Even when Ruben receives the cochlear implant, the sound that returns is not the world he knew. It’s fractured—metallic, warped, like something broken trying to imitate life. It’s not a recovery but an unfamiliar reminder of everything he can’t get back. Faced with this new reality, Ruben doesn’t fight; he simply sits with it, observing it in silence, as if resignation has replaced resistance.
+Even after Ruben receives the cochlear implant, the sound does not return as he hoped. It comes back distorted, metallic, and artificial. The device offers an imitation of hearing rather than a restoration of experience. Technology operates on the body, but it fails to recover memory, identity, or emotional belonging. Healing of the organ does not necessarily mean healing of the self.
 
-Sound of Metal doesn’t portray hearing loss as a simple absence. It shows how anxiety and grief seep in through silence, how a person can be slowly engulfed by a world that no longer sounds the way it used to. Without raising its voice, the film conveys Ruben’s disorientation and acceptance with heavy clarity. It suggests that losing one’s hearing is not just the disappearance of sound, but the experience of sinking—slowly and quietly—into a new and unfamiliar silence..
+As Ruben enters silence, his life no longer seeks resolution. The world he once lived in does not return to harmony. Instead, it remains fragmented and incomplete. His silence is not simply loss, but rupture—a break from a former life that will never be repaired. Rather than offering closure, it opens a state of unfinished existence.
+
+In this sense, Ruben does not die, but something essential in him disappears. The world built on sound collapses, and silence becomes a space of mourning. Like funeral music, the film does not prevent loss, nor does it repair it. It simply stays beside grief, allowing it to exist without demand for recovery.
+
+Sound of Metal ultimately shows that hearing loss is not a technical failure of the ear, but a slow dismantling of an old life. What arrives in its place is not emptiness, but a different world that must be learned without sound.
 
  <img src="./jeon-junwoo.png" alt="This painting is an oil work that captures the moment a man adjusts his hearing aid against a backdrop blending deep brown and earthy ochre tones. The man, with a shaved head and thick beard, gives off a strong and resilient impression, filling the canvas in a striking side profile. Light touches his forehead, cheekbone, and fingers, bringing out the textured brushstrokes, while the warm color palette emphasizes the emotional depth of the scene.
 His expression is a mix of concentration and calm, artistically portraying a personal and introspective moment related to hearing loss and the use of auditory assistance. Overall, the piece powerfully and delicately conveys the emotional weight of “Sound of Metal”—the confusion, adaptation, and acceptance experienced within a world of silence." style="width:35%;" />
 
  # 사운드 오브 메탈
 
- 영화 [사운드 오브 메탈](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s) 을 보면서 처음에는 단순히 한 드러머가 청력을 잃는 사건을 그린 이야기라고 생각했다. 하지만 시간이 지나자 루벤이 맞닥뜨린 ‘침묵’은 단순한 상실이 아니라, 갑자기 밀려오는 거대한 파도처럼 느껴졌다. 피할 수도, 도망칠 수도 없는 감각의 붕괴가 그를 천천히 잠식해 들어가는 것 같았다.
+ 영화 [사운드 오브 메탈](https://www.youtube.com/watch?v=VFOrGkAvjAE&t=144s) 을 처음 보았을 때, 나는 단순히 한 드러머가 갑작스럽게 청력을 잃는 이야기라고 생각했다. 그러나 이야기가 전개될수록 루벤을 둘러싼 침묵은 하나의 의학적 상태라기보다, 마치 피할 수 없는 거대한 파도처럼 느껴졌다. 소리의 붕괴는 단지 청각만이 아니라, 그가 지니고 있던 정체성까지 조금씩 집어삼키는 과정처럼 보였다.
 
-영화 속 소리는 단지 들리고 안 들리는 문제가 아니라, 감정의 변화와 불안을 그대로 드러내는 하나의 세계다. 초반의 거칠고 폭발적인 메탈 사운드는 루벤의 삶이 어떤 리듬으로 움직여왔는지 보여주지만, 청력을 잃은 순간부터 들리는 전자음, 잔향, 그리고 기묘하게 납작한 무음은 무기력하게 침대 위에서 폭우를 맞는 사람처럼 그를 고립시키고 흔든다. 소리는 줄어드는 대신, 그의 마음속에는 설명할 수 없는 불안이 조용히 차오른다.
+이 영화에서 소리는 단순히 듣는 대상이 아니라 감정의 풍경이다. 초반의 폭발적인 메탈 음악은 그의 몸이 리듬과 속도, 정확성에 맞추어 훈련되어 왔음을 보여준다. 그의 음악적 삶은 창작의 결과이기 이전에 반복과 통제를 통해 길들여진 신체의 산물이었다. 그러나 청력을 잃는 순간, 무너지는 것은 지각만이 아니라 그가 세계와 관계 맺던 방식 전체다.
 
-루벤이 인공 와우를 통해 다시 ‘소리’를 듣게 되었을 때도 상황은 크게 다르지 않다. 그 소리는 익숙한 세상의 부활이 아니라, 어딘가 비틀리고 깨진, 마치 금속을 긁는 듯한 뒤틀림으로 다가온다. 돌아오지 않는 과거를 확인하는 순간이자, 다시 한 번 밀려드는 낯선 소리의 파도다. 그 앞에서 루벤은 저항하기보다 그 왜곡된 현실을 조용히 바라볼 수밖에 없다.
+인공 와우를 통해 다시 소리가 들리기 시작했을 때도, 그것은 되돌아온 세상이 아니었다. 들려오는 소리는 금속성이고 인위적이며 어딘가 깨져 있다. 이 장치는 청각을 흉내낼 뿐, 과거의 경험을 회복시키지는 못한다. 기술은 신체의 기능을 복원할 수 있을지 모르지만, 기억과 정체성, 감정적 소속감까지 되돌려 주지는 못한다. 기관의 회복이 곧 인간의 회복을 의미하지는 않는다.
 
-이 영화는 청각장애를 단순히 다루지 않는다. 불안과 상실이 어떻게 ‘소리’라는 감각을 통해 스며들고, 한 인간의 내부를 천천히 잠식하는지를 보여준다. 아무 말도 하지 않아도, 아무 소리도 들리지 않아도, 루벤이 겪는 혼란과 체념은 관객에게 무겁게 전달된다. 사운드 오브 메탈은 청력을 잃는다는 것이 단순한 감각의 부재가 아니라, 낯선 침묵 속으로 아주 천천히 가라앉아 가는 경험이라는 사실을 깊게 느끼게 만드는 작품이다.
+루벤이 침묵 속으로 들어가면서 그의 삶은 더 이상 해결을 향하지 않는다. 세계는 다시 조화를 이루지 못한 채, 파편화된 상태로 남는다. 그의 침묵은 단순한 상실이 아니라 파열이다. 이전의 삶과는 더 이상 이어질 수 없는 단절이며, 봉합되지 않는 균열이다.
+
+이런 의미에서 루벤은 죽지 않지만, 그 안의 어떤 것은 사라진다. 소리로 이루어진 세계는 붕괴되고, 침묵은 애도의 공간이 된다. 이 영화는 상실을 막지도, 치유하지도 않는다. 다만 장례 음악처럼, 슬픔 곁에 조용히 머문다.
+
+사운드 오브 메탈은 청각의 상실을 단순한 신체적 결함이 아니라, 하나의 삶이 해체되는 과정으로 그린다. 소리가 사라지는 것이 아니라, 전혀 다른 세계가 조용히 도착한다.
 
 Both texts share a common framework in that they investigate how sensory alteration affects an individual’s psychological and emotional state through the medium of sound. Sound of Metal employs distorted auditory cues and the contrast between noise and silence to reveal Ruben’s isolation and identity disruption following the loss of hearing, whereas [Urrreung KwakKwangKwang](ahn-soobin.md) utilizes the imagery of a downpour and a flooded room to indirectly represent the narrator’s helplessness and rising anxiety. In both works, emotional description is minimized; instead, elements such as repetitive rhythms, the absence or distortion of sound, and lingering tonal impressions structurally convey the gradual accumulation of internal tension. In this respect, the two pieces share a narrative strategy that translates psychological experience into sensory form and communicates emotion through symbolic auditory markers rather than explicit emotional articulation.
 
