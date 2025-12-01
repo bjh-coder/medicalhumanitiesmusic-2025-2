@@ -32,3 +32,26 @@ His expression is a mix of concentration and calm, artistically portraying a per
 Both texts share a common framework in that they investigate how sensory alteration affects an individual’s psychological and emotional state through the medium of sound. Sound of Metal employs distorted auditory cues and the contrast between noise and silence to reveal Ruben’s isolation and identity disruption following the loss of hearing, whereas [Urrreung KwakKwangKwang](ahn-soobin.md) utilizes the imagery of a downpour and a flooded room to indirectly represent the narrator’s helplessness and rising anxiety. In both works, emotional description is minimized; instead, elements such as repetitive rhythms, the absence or distortion of sound, and lingering tonal impressions structurally convey the gradual accumulation of internal tension. In this respect, the two pieces share a narrative strategy that translates psychological experience into sensory form and communicates emotion through symbolic auditory markers rather than explicit emotional articulation.
 
 두 글 모두 갑작스럽게 밀려오는 감각적 변화가 개인의 내면을 어떻게 뒤흔드는지를 섬세하게 묘사하고 있다. 사운드 오브 메탈에서는 청력을 잃은 루벤이 소리가 사라진 세계 속에서 고립감과 불안을 조용히 견뎌내고, [우르릉 쾅쾅쾅](ahn-soobin.md)에서는 화자가 피할 수 없는 소나기 속에서 무기력하게 잠겨버리는 감정을 드러낸다. 두 작품 모두 ‘폭발적인 사건’보다 ‘천천히 스며드는 불안’에 집중하며, 겉으로는 큰 변화가 없어 보이지만 내면에서는 묵직하게 차오르는 감정의 흐름을 표현한다. 또한 소리—혹은 그 결핍—를 통해 주인공의 심리 상태를 감각적으로 전달하며, 상실·불안·체념이라는 정서를 직접 말하지 않고 이미지와 분위기로 체감하게 만든다는 점에서 두 글은 깊은 공통성을 가진다.
+
+내가 장례식에서 이 찬송가 [천국소망](https://www.youtube.com/watch?v=Q70VjGBYtRM&list=RDQ70VjGBYtRM&start_radio=1) 을 연주되길 바라는 이유는,
+나는 기독교인이며 우리 가족들도 모두 믿음 안에 있고,
+내가 떠난 후에도 ‘소망’이 중심이 되었으면 좋겠다고 느꼈기 때문이다.
+
+가사 없는 연주곡이 아니라,
+찬송가 본연의 가사와 메시지가
+내 죽음이 끝이 아니라 하나님의 나라로의 여정이라는 믿음을 드러내주길 바란다.
+
+이 노래는 단순한 애도의 노래가 아니라,
+삶과 죽음, 부활과 소망을 함께 기억하게 만드는 노래다.
+내가 사라진 뒤에도 남은 이들이 이 곡을 들으며
+내가 가진 믿음과 소망을 함께 떠올렸으면 좋겠다.
+
+The hymn I want to be played at my funeral is [Heavenly Hope](https://www.youtube.com/watch?v=Q70VjGBYtRM&list=RDQ70VjGBYtRM&start_radio=1) .
+Because I am Christian, and my entire family shares the same faith,
+I wish that even after I pass away, the hope I hold toward Heaven remains as the central message.
+
+This hymn is not about sorrow alone. Instead, its lyrics and melody affirm that death is not the end,
+but a passage toward God’s eternal promise.
+I hope that through this song, my funeral becomes not only a farewell, but a celebration of hope and faith.
+
+Even when I’m gone, those who hear this hymn can remember my trust in God and the hope of eternity.
