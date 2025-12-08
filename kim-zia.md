@@ -20,7 +20,7 @@ Another interesting point is revealed in the comparison between these two works.
 
 In the end, the music of the two works does not keep the disease Alzheimer's disease a medical phenomenon, but transforms it into a living story where relationships, narratives, and senses intersect. Music reaches not only the surface of the story, but also the deep layers, making us hear the lingering reverberations of emotions that remain even as we are forgotten.
 
-I hope La La Land's OST [Another Day of Sun](https://youtu.be/0pdqf4P9MB8?si=B5yK0ndQk1YSk6wh) will be played at my funeral. This song contains frustration and the power to get back up in the process of moving toward a dream in a bright and cheerful rhythm, and it is in contact with the hope that the last scene of my life will be able to recall the vitality and hope of the time I have lived rather than being filled with sadness alone. If this music flows in the quiet and heavy moment of the funeral, it seems that leaving itself will not be the end, but leave another room for a start, and I think my last will remain as a pleasant moment for those who remember me.
+I hope La La Land's OST [Another Day of Sun](https://youtu.be/7CVfTd-_qbc?si=A_mpakcI6X4QagQw) will be played at my funeral. This song contains frustration and the power to get back up in the process of moving toward a dream in a bright and cheerful rhythm, and it is in contact with the hope that the last scene of my life will be able to recall the vitality and hope of the time I have lived rather than being filled with sadness alone. If this music flows in the quiet and heavy moment of the funeral, it seems that leaving itself will not be the end, but leave another room for a start, and I think my last will remain as a pleasant moment for those who remember me.
 
 <img src="./kim-zia.png" alt="Abstract image of early-onset Alzheimer’s disease" style="width:50%;" />
 
@@ -38,4 +38,4 @@ I hope La La Land's OST [Another Day of Sun](https://youtu.be/0pdqf4P9MB8?si=B5y
 
 결국 두 작품의 음악은 알츠하이머라는 질병을 의학적 현상에 머무르게 하지 않고, 관계·서사·감각이 교차하는 살아 있는 이야기로 변환시킨다. 음악은 그 이야기의 표면만이 아니라 깊은 층위까지 도달하며, 우리가 잊혀짐 속에서도 여전히 남아 있는 감정의 잔향을 듣게 만든다.
 
-내 장례식에서는 라라랜드의 OST인 [Another Day of Sun](https://youtu.be/0pdqf4P9MB8?si=B5yK0ndQk1YSk6wh)이 연주되었으면 좋겠다. 이 노래는 밝고 경쾌한 리듬 속에 꿈을 향해 나아가는 과정에서의 좌절과 다시 일어서는 힘을 함께 담고 있어, 내 삶의 마지막 장면이 슬픔으로만 채워지기보다 내가 살아온 시간의 생동감과 기쁨을 함께 떠올릴 수 있기를 바라는 마음으로 선정하였다. 장례식이라는 조용하고 무거운 순간 속에서 이 음악이 흐른다면, 떠남 자체가 끝이 아니라 또 다른 시작의 여지를 남기는 듯한 느낌을 줄 것 같고, 나를 기억하는 사람들에게 내 마지막이 즐겁고 행복한 기억으로 남을 수 있을 것 같다.
+내 장례식에서는 라라랜드의 OST인 [Another Day of Sun](https://youtu.be/7CVfTd-_qbc?si=A_mpakcI6X4QagQw)이 연주되었으면 좋겠다. 이 노래는 밝고 경쾌한 리듬 속에 꿈을 향해 나아가는 과정에서의 좌절과 다시 일어서는 힘을 함께 담고 있어, 내 삶의 마지막 장면이 슬픔으로만 채워지기보다 내가 살아온 시간의 생동감과 기쁨을 함께 떠올릴 수 있기를 바라는 마음으로 선정하였다. 장례식이라는 조용하고 무거운 순간 속에서 이 음악이 흐른다면, 떠남 자체가 끝이 아니라 또 다른 시작의 여지를 남기는 듯한 느낌을 줄 것 같고, 나를 기억하는 사람들에게 내 마지막이 즐겁고 행복한 기억으로 남을 수 있을 것 같다.
