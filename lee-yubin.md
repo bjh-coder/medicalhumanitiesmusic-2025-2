@@ -12,7 +12,7 @@ In *Good Doctor* (2013), directed by Park J. B. In Good Doctor (2013), directed 
 
 Another drama dealing with the autism spectrum is [Extraordinary Attorney Woo] (cheong-yunho.md ). Both works have the same thing as dramas that emotionally expand the world of the protagonist with the autism spectrum through music. While "Good Doctor" shines Park Sion's transparent and delicate inner side with clear piano and warm string music, "Extraordinary Attorney Woo" depicts the world of Woo Young-woo, a lawyer who loves whales and lives in a sea of logic, with a rhythmic yet gentle melody. In particular, the unique evocative music that appears when Woo Young-woo realizes the core of the case simultaneously visualizes and audibly transforms the protagonist's cognitive transformation and waves of emotion, as if a whale rises to the surface and exhales. This musical device is in contact with "Good Doctor" in that it develops her journey of colliding with the world, reconciling again, and growing into a "sensory and warm inner story" rather than a simple legal drama.
 
-<img src="./" alt="description" style="width:25%;" />
+<img src="./lee-yubin.PNG" alt="description" style="width:25%;" />
 
 # 굿닥터
 
