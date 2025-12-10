@@ -2,10 +2,10 @@
 Title: The King's speech
 Year: 2010
 Genre: Film
-Creator: David saideler
+Creator: David seideler
 Disease: Stuttering
 ICD: F98.5
-Music: Ymphony No. 7 in A major, Op. 92
+Music: Symphony No. 7 in A major, Op. 92
 Composer: Beethoven
 ---
 
