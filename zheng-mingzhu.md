@@ -51,6 +51,29 @@ Another opera that centers on women’s love and suffering,[ La Traviata](jang-m
 
 [이 오페라는 ](https://www.youtube.com/watch?v=IYrbdiee9SU)나비 부인이 살아가던 시대적 분위기를 섬세하고 아름답게 담아내며, 무대 디자인과 조명 또한 그 시대의 정서를 완벽하게 표현하고 있다.링크를 열어보시면, 이러한 요소들이 어떻게 나비 부인의 이야기를 더욱 생생하게 펼쳐 보이는지 직접 확인하실 수 있다.
 
+# Connection to QBL (HYQ Portfolio)
+
+In my QBL portfolio, my main question is basically about “how we listen”
+When music carries illness, pain, or even death, what responsibility do I have as a listener? And in the AI era (art + medical contexts), does that responsibility change?
+
+This matters to me because I noticed my listening habits changed. I don’t only ask “is it beautiful?” anymore. I also ask “whose pain is this?” and “am I listening too easily?”  
+I think it also matters socially, because pain in music can be turned into something people consume quickly (like “sad but pretty”). In medical or hospice-related situations, that feels even more serious. And with AI recommending or generating music, it’s easy to reduce pain to a “mood,” so I feel this question becomes more important.
+
+This database is my way to answer the HYQ question with real examples. For example, in *Madama Butterfly*, the pain is not written as a medical illness, but it still sounds like a lived psychological state. To me, it can feel close to **a depressive state** (not a diagnosis—just how the music makes isolation, repeated disappointment, and exhausting hope audible). I also added a note on staging/lighting, because those choices can make her loneliness and pressure easier to see.
+
+If my entries don’t fully answer my HYQ question yet, that’s okay. I see this DB as something I can keep adjusting. In future entries, I want to connect my analysis more clearly to listening practice (context, distance, and what the sound is asking me to notice).
+
+# QBL과의 연결
+
+내 QBL(HYQ Portfolio)에서 내가 결국 붙잡은 질문은 “음악이 뭐냐”보다는, 그냥 “우리가 어떻게 듣고 있냐”에 가깝다.  
+질병·고통·죽음 같은 서사가 음악에 담길 때, 나는 청취자로서 어떤 태도와 책임을 가져야 할까? 그리고 AI 시대(예술·의료 맥락)에는 그게 어떻게 달라질까?
+
+이게 나한테 중요한 이유는, 수업 듣고 나서 내가 음악을 듣는 방식이 좀 바뀐 걸 느꼈기 때문이다. 예전엔 “예쁘다/감동이다”가 먼저였는데, 요즘은 “이 소리 뒤에 누구의 고통이 있지?” “내가 너무 쉽게 듣고 지나치는 건 아니지?” 같은 생각을 한 번 더 하게 된다.  
+사회적으로도 의미가 있다고 생각한다. 고통을 담은 음악이 그냥 “슬프고 예쁜 콘텐츠”처럼 빨리 소비될 수도 있고, 의료나 호스피스 같은 상황에서는 그게 더 조심스러운 문제라서다. AI가 음악을 추천하거나 만들게 되면 고통이 ‘무드’로만 처리될 수도 있어서, 오히려 이런 질문이 더 중요해진다고 느꼈다.
+
+이번 DB 파일은 그 질문을 작품으로 답해보려는 기록이다. 예를 들어 *Madama Butterfly* 글에서는 신체 질환이 딱 나오지 않아도, 음악이 심리적 고통을 ‘삶의 경험’처럼 들리게 만든다고 봤다. 그리고 그 상태가 (진단은 아니지만) **우울 상태에 가까운 느낌**으로도 들릴 수 있다고 적었다. 고립, 반복된 좌절, 버티기 위해 붙잡는 희망이 계속 쌓이는 느낌이 있어서다. 또 무대/조명 같은 요소가 그 압박을 더 “보이게” 만들 수 있다는 점도 덧붙였다.
+
+아직 DB 글들이 HYQ 질문에 완벽한 답을 준다고는 말 못 하겠다. 그래도 이 DB는 계속 수정하고 늘릴 수 있는 공간이다. 다음 글들에서는 내가 어떻게 듣고 있는지(맥락, 거리, 무엇을 놓치지 않으려 하는지)를 더 분명히 연결해서 써보고 싶다.
 
 # Funeral Song: That’s Okay – D.O.
 
