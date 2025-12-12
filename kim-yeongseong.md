@@ -2,6 +2,7 @@
 Title: The Theory of Everything
 Year: 2014
 Genre: Film
+Creator: James Marsh
 Disease: ALS
 ICD: 8B60.0
 Music: Arrival of the Birds
@@ -19,7 +20,11 @@ Another track from the same film, ["Domestic Pressures"](yoon-youngsik.md), focu
 
 <img src="./kim-yeongseong.png" alt="The image shows a fragmented human body, with fading limbs suggesting physical constraints, while the head is depicted as open and luminous to symbolize a mind that remains active and unconfined despite ALS." style="width:35%;" />
 
-# music to be played at a funeral
+# Interpreting Illness Through Music
+
+Through this course, I have studied cases such as Beethoven's hearing loss, Schumann's mental illness, and Schubert's syphilis. When we identify certain patterns or changes in musical works, what are the criteria for determining whether these actually reflect the composer's health condition or the illness of the subject being portrayed, or whether they are merely the result of artistic experimentation or stylistic changes of the period? The same questions can be raised about the music from *The Theory of Everything* analyzed above. What evidence is required to claim that musical elements such as the repetition of the piano melody, the ascending strings, and the waltz rhythm express ALS or the ALS patient's life? Generally, one might cite interviews with the composer or film director. If such evidence does not exist, is the analysis not an interpretation of the music itself but rather an interpretation of the film's narrative, with the music functioning merely as a backdrop to support that narrative? Furthermore, does analyzing the illness of a real person like Stephen Hawking through music violate his privacy or reduce him to a "case"—that is, to data? While the attempt to understand illness, disability, and suffering through music is meaningful, this course has led me to consider that such interpretations must be grounded in objective evidence, respect ethical boundaries, and honor both the composer and the individuals involved.
+
+# Music to be played at a funeral
 
 I hope J. S. Bach's [Cantata BWV 208: No.9](https://youtu.be/xt3DEuw0wjM?si=IRGjIofmvGgEY9r1), known as 'Sheep May Safely Graze(Schafe können sicher weiden)', to be played at my funeral. The piece has a peaceful and idyllic beauty, and is known to describe the excitement of the hunting ground and the peace of the grass. Originally performed as an aria for the soprano part and instrumental accompaniment, it became famous with [piano arrange version](https://youtu.be/NiXNY2GwDak?si=WeuB1VmJJUqiKErT) by Dutch pianist, Egon Petri.
 The gentle harmony of the two recorders, string instruments, and continuous bass create a calm and pure sound like a wind flowing on a meadow, which gives the feeling of ending of life journey and reaching a peaceful rest. I hope that the warm rest and comfort of the images of the sheep and the grasslands will gently wrap around the last moment of life, and I hope that they will deliver calm comfort and peace to those left behind.
@@ -31,6 +36,10 @@ The gentle harmony of the two recorders, string instruments, and continuous bass
 [영화의 엔딩 장면](https://youtu.be/HmKVjv8jDuA?si=YbhC3J7MI7W4Tui4)에서 스티븐 호킹과 제인은 아이들을 바라보며 과거를 회상한다. 시간이 거꾸로 흐르는 듯한 영상 기법을 통해 호킹이 휠체어에서 일어나 걷고, 젊은 시절로 돌아가는 모습이 그려진다. 이 장면에서 요한 요한슨의 음악은 회상과 현재를 부드럽게 연결하며, ALS로 인해 잃어버린 신체적 자유를 상상 속에서 되찾는 호킹의 모습을 통해 시간, 사랑, 기억의 의미를 성찰하게 한다. 음악은 슬픔보다는 온화한 수용과 인생에 대한 긍정을 담아내며, 질병이 가져온 상실 속에서도 지속되는 인간 정신의 아름다움을 조용히 드러낸다.
 
 같은 영화의 또 다른 곡 ["Domestic Pressures"](yoon-youngsik.md)는 ALS와 함께 사는 삶의 관계적 측면에 초점을 맞춘다. 곡은 3/4 왈츠로 시작해 점차 장조에서 단조로 전조되며, 고요한 현악에서 더 강한 화성적 긴장으로 이동한다. 이러한 음악적 진행은 간병의 부담을 표현하면서도 동시에 가정 내에서 지속되는 호킹의 주체성과 회복력을 드러낸다. "Arrival of the Birds"가 육체적 한계를 넘어선 개인 정신의 승리를 강조한다면, "Domestic Pressures"는 장애가 가정생활을 재구성할 때 계속되는 지적 활동, 유머, 애정의 순간들을 담아낸다.
+
+# 음악을 통한 질병의 해석
+
+수업을 통해 베토벤의 청각 장애, 슈만의 정신질환, 슈베르트의 매독과 같은 사례들을 학습하였다. 음악 작품에서 특정 패턴이나 변화를 발견했을 때, 이것이 실제로 작곡가의 건강 상태 또는 표현 대상의 질병을 반영하는지, 아니면 그저 예술적 실험이나 시대적 양식 변화에 의한 것인지를 판단하는 기준은 무엇인가? 앞서 분석한 《사랑에 대한 모든 것》의 음악들에 대해서도 같은 질문을 던질 수 있다. 피아노 선율의 반복, 현악의 상승, 왈츠 리듬, 이러한 음악적 요소들이 ALS 또는 ALS 환자의 생활상을 표현한다고 말하기 위해서는 어떠한 증거가 필요한가. 일반적인 경우 작곡가 또는 영화 감독의 인터뷰를 들 수 있을 것이다. 만약 그러한 증거가 없다면, 분석은 음악 자체에 대한 해석이 아니라 영화 서사에 대한 해석이며, 음악은 그 서사를 뒷받침하는 배경으로만 기능하는 것인가? 더 나아가, 스티븐 호킹이라는 실존 인물의 질병을 음악을 통해 분석하는 것이 그의 프라이버시를 침해하거나, 그를 '사례' 즉 데이터로 환원하는 것은 아닐까? 객관적 증거를 어떻게 판단하고 어떠한 윤리적 경계를 설정할 것인지에 대한 의논이 필요한 부분이다. 음악을 통해 질병과 장애, 고통을 이해하려는 시도는 의미있지만, 그 해석이 객관적 증거에 기반하고, 윤리적 경계를 존중하며, 작곡가와 당사자를 존중하는 범위 내에서 이루어져야 한다는 점을 이 수업을 통해 생각했다.
 
 # 장례식에서 연주되길 희망하는 음악
 
