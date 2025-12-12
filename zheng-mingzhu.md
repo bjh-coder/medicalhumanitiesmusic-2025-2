@@ -20,7 +20,9 @@ Even without a clear physical illness in the plot, the opera shows intense psych
 
 Puccini’s writing turns that inner state into sound. The rising melodic lines and long sustained notes express desperate longing, while trembling strings and unsettled harmonies suggest a mind under strain. If I name the “disease” here, I would do it carefully: not as a diagnosis, but as a possibility. Her isolation, repeated disappointment, and forced self-belief can be heard as something close to depression or a depressive state—a heavy, sinking condition where hope becomes exhausting. This connects to the Week 12 idea of listening closely to what sound reveals, instead of labeling a person too quickly.
 
-Week 13 gives me a practical listening method: listening against the grain. Instead of following only the beautiful surface, I notice where the music refuses full closure—where the dream already feels unstable. And Week 14’s question—what can someone hear when death is near—changes the emotional weight of this aria. Knowing Butterfly’s ending, her hope still shines, but it also feels like the last light before darkness. That is why this aria is so powerful to me: it makes invisible wounds audible, and it forces us to treat psychological pain as real.
+Week 13’s idea of listening against the grain changes how I hear the aria. Instead of following only its beauty, I try to notice the places where the music refuses full closure, where the dream already feels unstable. Week 14’s question—what someone can hear when death is near—adds another layer. Knowing Butterfly’s ending, her hope still shines, but it also feels like the last light she has.
+
+Because of all this, I end up hearing the aria differently. It doesn’t only sound “beautiful.” It sounds like someone trying to survive with a story, and that psychological pain feels real to me.
 
 Another opera that centers on women’s love and suffering,[ La Traviata](jang-minsun.md)shows how music can function in a different way. Just as Violetta’s physical illness and emotional despair are revealed through delicate musical changes, Madama Butterfly expresses Cio-Cio-san’s psychological pain through shifts in melodic flow and harmonic progression.
 
@@ -40,13 +42,15 @@ Another opera that centers on women’s love and suffering,[ La Traviata](jang-m
 
 이 작품에는 명확한 신체 질환이 제시되지 않지만, 12주차에서 논의한 것처럼 이를 **삶의 경험(illness)**으로서의 고통으로 들을 수 있다. 초초상은 “돌아오면 회복된다”는 이야기를 붙들고 있으나, 음악은 기다림 속에서 시간감각이 흔들리고 고통이 축적되는 모습을 함께 들려준다. 상승하는 선율과 긴 지속음은 간절한 그리움을 드러내지만, 떨리는 현악과 완전히 안정되지 않는 화성은 내면의 불안정함을 암시한다. 따라서 이 고통은 하나의 가능성으로 우울(우울 상태)의 그림자로도 들릴 수 있다. 이는 의학적 확진이라기보다, 고립과 반복된 좌절이 만들어내는 ‘가라앉는 감각’을 음악이 청각적으로 보여준다는 의미이다.
 
-13주차의 관점은 듣기 방식 자체를 바꾼다. 표면의 아름다움만 따라가기보다, 음악이 완전히 해소되지 않는 지점들을 역으로(against the grain) 듣게 되며, 그 미해결감은 초초상의 희망이 이미 붕괴를 품고 있음을 드러낸다. 마지막으로 14주차의 질문—“죽음이 가까운 사람은 무엇을 들을 수 있는가”—을 떠올리면, 이 아리아는 더 잔인하게 다가온다. 결말을 아는 청중에게 초초상의 희망은 마지막까지 자신을 붙드는 빛처럼 들리기 때문이다. 결국 이 아리아는 보이지 않는 상처를 ‘들리게’ 만들고, 심리적 고통 또한 현실적이며 치명적일 수 있음을 강하게 전달한다.
+13주차의 ‘역으로 듣기’는 나의 듣기 방식을 바꾼다. 표면의 아름다움만 따라가기보다, 완전히 해소되지 않는 지점, 꿈이 이미 불안정한 지점을 더 신경 쓰게 된다. 14주차의 질문—죽음이 가까운 사람은 무엇을 들을 수 있는가—을 떠올리면, 이 희망은 더 무겁게 다가온다. 결말을 아는 청중에게는 마지막까지 자신을 붙드는 빛처럼 들리기 때문이다.
 
+그래서 나는 이 아리아를 그냥 “예쁘다”로만 듣기 어렵다. 누군가가 어떤 이야기를 붙잡고 버티는 소리처럼 들리고, 그 심리적 고통이 꽤 현실적으로 느껴진다
 
 여성의 사랑과 고통을 주제로 삼는 또 다른 오페라 [라 트라비아타](jang-minsun.md)에서는 음악이 상이한 방식으로 기능한다. 작품 속에서 비올레타의 육체적 질병과 정서적 절망이 세밀한 음악적 변화를 통해 드러나듯이, 《나비 부인》에서도 초초상의 심리적 고통이 선율의 흐름과 화성적 전개의 변화를 통해 표현된다.
 이 작품을 선택한 이유는, 음악이 언어보다 더 깊이 인간의 마음을 이해하게 하기 때문이다. 《나비 부인》은 눈에 보이지 않는 심리적 상처를 드러내며, 마음의 병 또한 육체의 고통만큼이나 현실적이라는 사실을 일깨운다. 푸치니의 음악은 말로 다할 수 없는 슬픔을 보여주면서도, 동시에 그 슬픔을 치유하는 따뜻한 힘을 전해준다.
 
 [이 오페라는 ](https://www.youtube.com/watch?v=IYrbdiee9SU)나비 부인이 살아가던 시대적 분위기를 섬세하고 아름답게 담아내며, 무대 디자인과 조명 또한 그 시대의 정서를 완벽하게 표현하고 있다.링크를 열어보시면, 이러한 요소들이 어떻게 나비 부인의 이야기를 더욱 생생하게 펼쳐 보이는지 직접 확인하실 수 있다.
+
 
 # Funeral Song: That’s Okay – D.O.
 
