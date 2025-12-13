@@ -19,6 +19,9 @@ The Symphonie fantastique is a work in which the composer’s own emotional inst
 On a thematic level, the work prompts a deeper consideration of how death is portrayed. If we pose the question of what a person hears when facing death, or whether late-style artistic expression embodies maturity, the symphony’s protagonist offers a compelling case. At the brink of death, he recalls his beloved, symbolized through the idée fixe that recurs throughout the work. This illustrates a fundamentally human impulse: the return to one’s object of love in the face of mortality. As for whether late style is marked by artistic maturity, the symphony suggests otherwise. Rather than showing refinement, the protagonist collapses into deterioration driven by alcoholism, obsession, and psychological instability. This lack of “late-style maturity” can also be seen in Berlioz’s own life, marked by marital turmoil and personal unhappiness, which prevented him from achieving a peaceful final chapter.
 
 <img src="./huh-hoyoung.png" alt="Abstract representation of the obsessive–compulsive personality traits manifested in the fourth movement of Symphonie fantastique" style="width:35%;" />
+: An image depicting the moment of execution at the guillotine, with the melody symbolizing the beloved woman faintly heard from afar. 
+
+: 단두대에서의 처형되는 순간, 멀리서 들려오는 사랑하는 여인을 상징하는 선율을 표현한 이미지.
 
 # 환상교향곡 (_Symphonie Fantastique_)
 
