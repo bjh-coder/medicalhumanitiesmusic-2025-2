@@ -40,6 +40,18 @@ The piece I hope will be played at my funeral is [Mahler’s Symphony No. 5](htt
 Mahler’s music does not remain in sorrow; it embraces tension, order, chaos, love, and redemption, encompassing the full spectrum of human experience. For this reason, the work expresses the passion, intensity, and warmth I have pursued throughout my life, making it the piece that would convey my essence most truthfully at my memorial.
 
 
+# Week 5: Can Pain Be Expressed Through Music?
+
+These three works move beyond the simple question of whether pain can be “expressed” and instead demonstrate how music structures pain and enables it to be perceived. The tuberculosis of Violetta and Fantine is not rendered through the direct imitation of physical suffering, but is instead experienced aurally through fragmented breathing, shortened phrases, and weakened dynamics, thereby activating the listener’s own bodily perception. Mahler’s Symphony No. 5 likewise refuses to aestheticize pain lyrically; through unstable harmonies, ruptured rhythms, and excessive tension, it reveals how pain dismantles the order of life itself. In this sense, music functions not as a language that explains pain, but as a medium that renders perceptible the very process by which pain arises and persists.
+
+# Week 10: The Birth of Orthopedics and the Concept of “Correct Posture”
+
+The notion of the “correct body,” standardized by the emergence of orthopedics, is persistently challenged in these works. Violetta’s collapsing breath and unstable vocal lines mark her body as one that deviates from ideals of health and control, while Fantine’s weakened rhythms and rough breathing expose a body that society no longer deems worth sustaining amid labor exploitation and poverty. Mahler’s music, too, rejects balanced classical corporeality, repeatedly staging excessive tension and collapse in order to expose the fiction of normalcy. From this perspective, these diseased bodies are not defects, but bodies excluded by socially constructed norms, and music becomes the most vivid medium through which the traces of that exclusion are recorded.
+
+# Week 12: Disease and Music Contain Narrative
+
+In these works, tuberculosis is not merely a medical diagnosis but a narrative device unfolding over time. Violetta’s music moves from initial brilliance toward gradual deterioration and unresolved cadences; Fantine’s songs trace a descent from dream to collapse; and Mahler’s symphony progresses from funeral march toward a fragile sense of release. Crucially, none of these narratives culminates in complete healing or redemption. Instead, lingering silences, incomplete cadences, and unstable harmonies insist that disease is not solely an individual problem, but an unresolved social and structural question. Thus, the relationship between disease and music is not a metaphor for cure, but a narrative tension that exposes the unremedied conditions of life itself.
+
 
 <img src="./jang-minsun.png" alt="description" style="width:40%;" />
 
@@ -77,3 +89,15 @@ Mahler’s music does not remain in sorrow; it embraces tension, order, chaos, l
 * 2악장의 폭발적 에너지와 불안정한 화성은 사회적 혼란과 내적 충돌
 * 4악장 아다지에토의 절제·숨결 같은 선율은 말년적 성찰과 해방
 을 상징한다. 말러의 음악은 슬픔에 머무르지 않고, 긴장·질서·혼돈·사랑·구원이라는 인간의 복합적인 감정 구조를 모두 포용한다. 그렇기에 이 곡은 나를 기억하는 자리에서, 내가 평생 추구했던 열정·치열함·따뜻함을 가장 온전히 전달할 수 있는 작품이라고 생각한다.
+
+
+# 5주차 〈고통은 음악으로 표현될 수 있는가?〉
+
+이 세 작품은 고통이 단순히 “표현될 수 있는가”라는 질문을 넘어, 음악이 고통을 어떻게 구조화하고 인식하게 만드는가를 보여준다. 비올레타와 판틴의 결핵은 통증의 직접적 재현이라기보다, 호흡의 단절, 프레이즈의 축소, 다이내믹의 약화를 통해 청각적으로 체험되며 관객의 신체 감각을 자극한다. 말러 교향곡 5번 역시 고통을 서정적으로 미화하지 않고, 불안정한 화성·리듬의 균열·과잉된 긴장을 통해 고통이 삶의 질서를 어떻게 붕괴시키는지를 드러낸다. 이처럼 음악은 고통을 설명하는 언어가 아니라, 고통이 발생하고 지속되는 과정 자체를 감각화하는 매체로 기능한다.
+
+# 10주차 〈정형외과학의 탄생과 ‘올바른 자세’〉
+
+정형외과학이 규범화한 ‘올바른 신체’의 개념은 이 작품들에서 끊임없이 도전받는다. 비올레타의 무너지는 호흡과 불안정한 성악선은 건강하고 통제된 신체라는 기준에서 이탈한 몸으로 인식되며, 판틴의 쇠약한 리듬과 거친 호흡은 노동과 빈곤 속에서 사회가 더 이상 유지하지 않으려는 신체를 드러낸다. 말러의 음악 또한 균형 잡힌 고전적 신체성 대신, 과도한 긴장과 붕괴를 반복함으로써 정상성의 허구를 폭로한다. 이 관점에서 볼 때, 이들의 병든 몸은 결함이 아니라 사회가 설정한 기준에 의해 배제된 몸이며, 음악은 그 배제의 흔적을 가장 적나라하게 기록하는 장치가 된다.
+
+# 12주차 〈질병과 음악에는 서사가 있다〉
+결핵은 이 작품들에서 단순한 진단명이 아니라, 시간을 따라 전개되는 서사적 장치로 작동한다. 비올레타의 음악은 화려한 시작에서 점진적 쇠약과 미해결의 종지로 이동하며, 판틴의 노래는 꿈에서 추락으로, 말러의 교향곡은 장송에서 해방으로 이동한다. 중요한 점은 이 서사들이 완전한 치유나 구원으로 귀결되지 않는다는 것이다. 오히려 남겨진 침묵, 불완전한 종지, 흔들리는 화성은 질병이 개인의 문제가 아니라 사회적·구조적 질문임을 끝까지 환기한다. 따라서 질병과 음악의 관계는 치료의 은유가 아니라, 해결되지 않은 삶의 조건을 드러내는 서사적 긴장으로 이해될 수 있다.
