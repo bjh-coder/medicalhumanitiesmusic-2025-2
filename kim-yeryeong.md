@@ -6,7 +6,7 @@ Disease: general paralysis
 ICD: I-10
 ---
 
-![image](https://chatgpt.com/s/m_693f4b2db31481919ed37c1dba04bf89)
+![image](https://postfiles.pstatic.net/MjAyNTEyMTVfMjkw/MDAxNzY1NzU2MDcxNDQ5.Rxx3waeiGLshT4y1Aa4Pf8sIgyQiC-8ad0JRNYJJHmIg.C7ZYgy7CeHcDG4wKft2lMSLqo9Qghfuvlp7PY0ergUgg.PNG/%ED%8E%B8%EC%95%88%ED%95%9C_%ED%91%9C%EC%A0%95%EC%9D%98_%EB%82%A8%EC%9E%90_%EC%B4%88%EC%83%81_(1).png?type=w3840)
 
 
 # [Me Before You](https://www.sisunnews.co.kr/news/articleView.html?idxno=225974)
