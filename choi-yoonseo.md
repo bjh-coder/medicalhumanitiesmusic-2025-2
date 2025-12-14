@@ -41,7 +41,7 @@ To listen to another person’s suffering is not simply to receive the sound of 
 
 I would like** [“Snowman”](https://www.youtube.com/watch?v=gPNu9OIj4Zo&list=RDgPNu9OIj4Zo&start_radio=1) by Jung Seung-hwan **to be played at my funeral. The song tells the story of two lovers parting in the winter, wishing for each other’s happiness, and letting go when spring arrives. **If the moment comes when I am facing death** (week 14), I imagine I would hear the quiet sound of my loved ones crying, their trembling breaths, and all the unspoken words filling the room. Yet even within that sorrow, I hope the melody of *Snowman* would gently cover those tears. Just like the message of the song, I want the people around me to remember and miss me for a season, but when the next season arrives, to let go of their sadness and continue living warmly and happily, keeping only the good memories of me. In the end, this song will speak for me—expressing my wish for peace, comfort, and hope for all the seasons they will live through after I am gone.
 
-# HYQ PBL Questions
+# HYQ Portfolio Questions
 
 1. 작곡가의 고통이 음악속에 '실재'한다면, 그것은 어떤 방식으로 존재하는가?
 2. 예술가의 고통을 우리가 '실재'하는 것 이라고 받아들인다면, 그건 우리의 해석인건가?
